@@ -1,4 +1,3 @@
 banana
 apple
 berries branch
-new branch berries
